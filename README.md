@@ -17,8 +17,6 @@ A data analysis project focused on transforming raw data into meaningful insight
 pip install -r requirements.txt
 
 ## Sample Output
-
-```
   WEEKLY BREAKDOWN
   Week        Avg Steps  10k Days   Avg Bench
   --------------------------------------------
