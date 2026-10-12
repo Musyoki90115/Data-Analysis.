@@ -16,9 +16,9 @@ A data analysis project focused on transforming raw data into meaningful insight
 ```bash
 pip install -r requirements.txt
 
-## Sample Output
 
-```
+
+## Sample Output
   WEEKLY BREAKDOWN
   Week        Avg Steps  10k Days   Avg Bench
   --------------------------------------------
@@ -35,7 +35,6 @@ pip install -r requirements.txt
   Day 18: 11,500 steps  (OMAD)
   Day 11: 11,200 steps  (OMAD)
   Day  4: 11,000 steps  (OMAD)
-```
 
 ## Stack
 
